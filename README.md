@@ -1,5 +1,8 @@
 Customer Churn Analysis in Telecom Industry
+
+
 Introduction
+
 Customer churn is one of the critical challenges faced by telecom companies. Retaining existing customers is more cost-effective than acquiring new ones. Therefore, it is essential for telecom companies to identify customers who are likely to leave the service. This project focuses on analyzing the telecom customer dataset and building predictive models to classify whether a customer will churn or not.
 
 Objective
